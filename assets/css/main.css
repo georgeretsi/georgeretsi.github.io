@@ -135,7 +135,8 @@ input, select, textarea {
 
 	h1, h2, h3, h4, h5, h6 {
 		color: #777;
-		font-weight: 700;
+		font-family: "Playfair Display", Georgia, serif;
+		font-weight: 500;
 		line-height: 1em;
 		margin: 0 0 0.5625em 0;
 	}
@@ -2415,6 +2416,32 @@ input, select, textarea {
 				width: 2.5em;
 			}
 
+
+
+	ul.contact-icons {
+		list-style: none;
+		padding-left: 0;
+	}
+
+		ul.contact-icons li {
+			display: inline-block;
+			text-decoration: none;
+			margin: 0 0 1.6875em 0;
+			padding: 0.35em 0 0 3.5em;
+			position: relative;
+			width: 80%;
+		}
+			ul.contact-icons li:before {
+				background: #5472c0;
+				border-radius: 100%;
+				color: #ffffff;
+				height: 2.0em;
+				left: 0;
+				position: absolute;
+				text-align: center;
+				width: 2.0em;
+			}
+
 /* Icons */
 
 	ul.icons {
@@ -3313,4 +3340,51 @@ input, select, textarea {
 				padding: 0;
 			}
 
+	}
+
+
+	.collapsible {
+	  background-color: #777;
+	  color: white;
+	  cursor: pointer;
+	  padding: 10pt 20pt 10pt 20pt;
+	  width: 100%;
+	  border: white solid 2px;
+	  text-align: left;
+	  outline: none; /*white solid 1px;*/
+	  font-size: 22px;
+	  /*font-family: "Quicksand"*/
+	  font-family: "Quicksand", Arial, sans-serif;
+	  letter-spacing: 1px;
+	  /*text-transform: uppercase;*/
+	  font-weight: italic;
+	}
+
+	.collapsible-active, .collapsible:hover {
+		color: white;
+		background-color: #5472c0;
+	}
+
+	.collapsible:after {
+	  content: '\002B';
+	  color: white;
+	  font-weight: bold;
+	  float: right;
+	  margin-left: 5px;
+	}
+
+	.collapsible-active:after {
+	  content: "\2212";
+	}
+
+	.content {
+	  padding: 0px 25px 0px 25px;
+	  max-height: 0;
+	  overflow: hidden;
+	  font-weight: italic;
+	  transition: max-height 0.2s ease-out;
+	  background-color: #f1f1f1;
+	  font-size:18px;
+	  border: white solid 2px;
+	  /*border: #5472c0 solid 2px;*/
 	}
