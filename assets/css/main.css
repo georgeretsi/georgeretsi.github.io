@@ -117,7 +117,7 @@ input, select, textarea {
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #5472c0 !important;
+			color: #243337 !important;
 		}
 
 	strong, b {
@@ -1786,7 +1786,7 @@ input, select, textarea {
 	}
 
 	header.major h2 {
-		color: #5472c0;
+		color: #243337;
 		font-size: 3.5em;
 	}
 
@@ -1849,7 +1849,7 @@ input, select, textarea {
 		input[type="email"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #5472c0;
+			border-color: #243337;
 		}
 
 	select {
@@ -1954,7 +1954,7 @@ input, select, textarea {
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
-			border-color: #5472c0;
+			border-color: #243337;
 		}
 
 	input[type="checkbox"] + label:before {
@@ -2403,7 +2403,7 @@ input, select, textarea {
 			}
 
 			ul.feature-icons li:before {
-				background: #5472c0;
+				background: #243337;
 				border-radius: 100%;
 				color: #ffffff;
 				display: block;
@@ -2432,7 +2432,7 @@ input, select, textarea {
 			width: 80%;
 		}
 			ul.contact-icons li:before {
-				background: #5472c0;
+				background: #243337;
 				border-radius: 100%;
 				color: #ffffff;
 				height: 2.0em;
@@ -2645,7 +2645,7 @@ input, select, textarea {
 		input[type="reset"].primary,
 		input[type="button"].primary,
 		.button.primary {
-			background-color: #5472c0;
+			background-color: #243337;
 			color: #ffffff !important;
 		}
 
@@ -2727,7 +2727,7 @@ input, select, textarea {
 		-webkit-justify-content: space-between;
 		-ms-justify-content: space-between;
 		justify-content: space-between;
-		background: #5472c0;
+		background: #243337;
 		color: #f0f0f0;
 		height: 100%;
 		overflow-y: auto;
@@ -2835,7 +2835,7 @@ input, select, textarea {
 
 						#header > nav ul li a.active {
 							background: #fff;
-							color: #5472c0 !important;
+							color: #243337 !important;
 						}
 
 					#header > nav ul li:first-child {
@@ -3103,7 +3103,7 @@ input, select, textarea {
 					}
 
 					#titleBar .toggle:before {
-						background: #5472c0;
+						background: #243337;
 						color: #ffffff;
 						content: '\f0c9';
 						display: block;
@@ -3362,7 +3362,7 @@ input, select, textarea {
 
 	.collapsible-active, .collapsible:hover {
 		color: white;
-		background-color: #5472c0;
+		background-color: #243337;
 	}
 
 	.collapsible:after {
@@ -3386,5 +3386,7 @@ input, select, textarea {
 	  background-color: #f1f1f1;
 	  font-size:18px;
 	  border: white solid 2px;
-	  /*border: #5472c0 solid 2px;*/
+	  /*border: #243337 solid 2px;*/
 	}
+
+	/*old-color: #243337 */
