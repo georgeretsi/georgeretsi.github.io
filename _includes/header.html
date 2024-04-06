@@ -95,6 +95,16 @@
               {%- endif -%}
               {%- endif -%}
               {% endfor -%}
+
+
+              {%- if site.cv_pdf -%}
+              <li class="nav-item {% if page.title == p.title %}active{% endif %}">
+                <a href="{{ site.cv_pdf | prepend: 'assets/pdf/' | relative_url}}" class="nav-link" target="_blank" rel="noopener noreferrer" title="CV">cv
+                  <span class="sr-only">(current)</span>
+                </a>
+              </li>
+              {% endif %}
+
               {%- if site.enable_darkmode %}
 
               <!-- Toogle theme mode -->

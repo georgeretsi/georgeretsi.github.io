@@ -352,7 +352,7 @@ blockquote {
   text-align: center;
 
   .contact-icons {
-    font-size: 4rem;
+    font-size: 2.5rem;
 
     a {
       i::before {
@@ -651,6 +651,7 @@ footer.sticky-bottom {
     margin-top: 2rem;
     margin-bottom: -2rem;
     text-align: right;
+    color: rgb(102, 102, 102)
   }
 
   ol.bibliography {
@@ -1071,3 +1072,4 @@ nav[data-toggle="toc"] {
 #toc-sidebar {
   z-index: 1;
 }
+
