@@ -1,7 +1,7 @@
 ---
 layout: publication
 title: "SMIRK: 3D Facial Expressions through Analysis-by-Neural-Synthesis (CVPR 2024)"
-description: "SMIRK: 3D Facial Expressions through Analysis-by-Neural-Synthesis (CVPR 2024)"
+description: # "SMIRK: 3D Facial Expressions through Analysis-by-Neural-Synthesis (CVPR 2024)"
 img: assets/img/cover.jpg
 importance: 1
 category: work
