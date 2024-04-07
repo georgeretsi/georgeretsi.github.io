@@ -131,7 +131,7 @@ category: work
 
 <div class="row justify-content-sm-center" align="center">
     <div class="col-sm">
-<iframe width="560" height="315" src="https://youtu.be/8ZVgr41wxbk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/embed/8ZVgr41wxbk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 </div>
 
