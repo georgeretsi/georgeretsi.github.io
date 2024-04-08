@@ -87,11 +87,11 @@ category: work
   <div class="col-sm" align=center>
         <!-- PDF Link. -->
         <!-- Video Link. -->
-        <a class="btn btn-dark btn-rounded" href="https://arxiv.org/pdf/2207.11094" role="button">
+        <a class="btn btn-dark btn-rounded" href="https://arxiv.org/pdf/2404.04104.pdf" role="button">
           <i class="fa fa-file-pdf"></i>
           Paper
         </a>
-        <a class="btn btn-dark" href="https://arxiv.org/abs/2207.11094" role="button">
+        <a class="btn btn-dark" href="https://arxiv.org/abs/2404.04104" role="button">
           <i class="ai ai-arxiv"></i>
           arXiv
         </a>
