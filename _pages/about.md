@@ -19,7 +19,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons under the image (updated from bottom by filby)
 ---
 
+I am George Retsinas, first and foremost a problem solver and machine learning enthusiast, currently working as a Postdoctoral Researcher in the School of Electrical and Computer Engineering of the National Technical University of Athens, where I have received my Ph.D. focused on machine learning and computer vision. I have also been a research associate at Athena Research Center and National Center for Scientific Research “Demokritos”.
+The main topic of research during my Ph.D. was Document Analysis and Recognition and still remains one of my side interests, while the main theme of my current research is robotic vision. My main passion revolves around deep learning optimization (e.g., model compression, self-supervised learning), trying to achieve the balance between theoretical research and applied science.
+
+<!--
 George Retsinas was born in 1989, in Sparta, Greece. He received the Diploma degree in Electrical and Computer Engineering from National Technical University of Athens in February 2014. His diploma thesis, supervised by Prof. Petros Maragos, tackled fingerspelling, a subtask of sign language recognition. He received his Ph.D. degree from the Department of Electrical and Computer Engineering of National Technical University of Athens in February 2020. Part of his Ph.D. (2015-2018) was done in collaboration with the Institute of Informatics and Telecommunications of the National Center for Scientific Research “Demokritos”. The main research direction during this collaboration was document analysis and recognition, with emphasis on machine learning approaches. Additional research directions, addressed during his PhD, included bio-signal processing and compression of deep neural networks. His main research interests are in Image Processing and Document Image Analysis, Pattern Recognition, Deep Learning, Algorithms and Mathematical Optimization.
+-->
 
 
 
